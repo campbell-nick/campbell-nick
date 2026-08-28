@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**iwasneverthere25-afk/iwasneverthere25-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 👋 **Name:** Nick Campbell
+- 🐧 **OS:** Linux (Fedora / Arch)
+- 🛠️ **Environment:** Sway WM, Waybar, Kitty, Rofi
+- 💻 **Currently Learning:** C/C++, Shell Scripting, Custom Tools
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Tools
+- **Languages:** C++, C, Bash, Python, HTML/CSS
+- **Tools:** Git, Vim, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Repositories
+- [Sway-dotfiles](https://github.com/iwasneverthere25-afk/Sway-dotfiles) - My personal desktop setup and configs
