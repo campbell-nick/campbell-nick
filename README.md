@@ -1,14 +1,12 @@
 ## Hi there 👋
+Hey I'm Campbell! I've been willing to make my dreams come true. And also trying to become a programmer.(At this young?!!)
 
 ### About Me
-- 👋 **Name:** Nick Campbell
-- 🐧 **OS:** Linux (Fedora / Arch)
-- 🛠️ **Environment:** Sway WM, Waybar, Kitty, Rofi
-- 💻 **Currently Learning:** C/C++, Shell Scripting, Custom Tools
+- **Name:** Nick Campbell
+- **Current Grade:** 9th Grade
+- **OS:** Gentoo Linux
+- **Currently Learning:** C/C++, Shell Scripting, Custom Tools
+- **Will Learn In Future:** Rust, Java, Go
 
-### 🔧 Tech Stack & Tools
-- **Languages:** C++, C, Bash, Python, HTML/CSS
-- **Tools:** Git, Vim, VS Code
-
-### 📌 Featured Repositories
-- [Sway-dotfiles](https://github.com/iwasneverthere25-afk/Sway-dotfiles) - My personal desktop setup and configs
+### Quote
+> *"The code you write today is the blueprint of tomorrow's world."*
